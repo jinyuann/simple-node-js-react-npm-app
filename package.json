@@ -15,5 +15,10 @@
   },
   "devDependencies": {
     "cross-env": "^7.0.3"
-  }
+  },
+  "browserslist": [
+    "defaults",
+    "not IE 11",
+    "maintained node versions"
+  ]
 }
